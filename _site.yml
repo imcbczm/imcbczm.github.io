@@ -1,0 +1,37 @@
+name: "Zhengming Chen, Ph.D, MPH, MS"
+output_dir: "."
+navbar:
+  title: "Zhengming Chen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      menu:
+        - text: "Biomarker study"
+          href1: research__biomarker_.html
+        - text: "Clinical trial"
+          href2: research__clinical_trial_.html
+    - text: "Teaching"
+      menu:
+        - text: "Statistical programming with SAS"
+          href: teaching__SAS_.html
+        - text: "Statistical consultation"
+          href: teaching__Statistical_consulting_.html
+    - text: "Programming"
+      menu:
+        - text: "SAS"
+          href: programming__SAS_.html
+        - text: "R"
+          href: programming__R_.html
+    - text: "Hobby"
+      href: hobby.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: zhc2006@med.cornell.edu
+    - icon: fa-github fa-lg
+      href: http://github.com/imcbczm
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/zhengming-chen-726384b3/
+output:
+  html_document:
+    theme: spacelab
