@@ -23,6 +23,18 @@ navbar:
           href: programming-SAS.html
         - text: "R"
           href: programming-R.html
+    - text: "Some Useful References"
+      menu:
+        - text: "About Clinical Trials"
+          menu:
+           - text: "CONSORT"
+             href: CONSORT-2010-Explanation-and-Elaboration-BMJ.pdf
+           - text: "Sample size for Phase II trials"
+             href: Smaller-sample-size-for-phase-II-trials-based-on-exact-tests-with-trading-off-(British-J-of-Can-2012).pdf
+        - text: "Statistics for Biologist"
+          menu:
+           - text: "A biologist guide for statistical analysis"
+             href: A-biologist-guide-for-statistical-analysis.pdf
     - text: "Hobby"
       href: hobby.html
   right:
