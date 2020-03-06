@@ -33,7 +33,7 @@ navbar:
              href: Smaller-sample-size-for-phase-II-trials-based-on-exact-tests-with-trading-off-(British-J-of-Can-2012).pdf
         - text: "Statistics for Biologist"
           menu:
-           - text: "A biologist guide for statistical analysis"
+           - text: "A biologist's guide for statistical analysis"
              href: A-biologist-guide-for-statistical-analysis.pdf
     - text: "Hobby"
       href: hobby.html
