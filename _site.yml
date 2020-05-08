@@ -35,6 +35,10 @@ navbar:
           menu:
            - text: "A biologist's guide for statistical analysis"
              href: A-biologist-guide-for-statistical-analysis.pdf
+        - text: "Graphics in R"
+          menu:
+           - text: "ggplot2 cheat sheet (2018)"
+             href: ggplot2-cheat-sheet-2018.pdf
     - text: "Hobby"
       href: hobby.html
   right:
